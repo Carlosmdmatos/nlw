@@ -1,6 +1,6 @@
 # NLW eSports
 
-![preview](./.github/carlosmdmatos.github.io_nlw-esports-explorer_.png)
+![preview](./files/carlosmdmatos.github.io_nlw-esports-explorer_.png)
 
 >Trilha Explorer
 
